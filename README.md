@@ -2,8 +2,8 @@
 
 🎓 I’m currently an MTech student in Artificial Intelligence & Data Science.  
 📍 I’m learning how to use AI and data to understand problems and find useful solutions.  
-💡 I’m just starting out, but I’m excited to explore Python, machine learning, and data analysis through small projects.
-🎓 I’m learning step-by-step through courses and hands-on projects.  
+💡 I’m just starting out, but I’m excited to explore Python, machine learning, and data analysis through small projects.  
+📚 I’m learning step-by-step through courses and hands-on practice.  
 💻 You can see my progress and projects below!
 
 ---
